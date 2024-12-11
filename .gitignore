@@ -1,0 +1,11 @@
+# Compiled binaries and objects
+build/
+*.o
+*.out
+
+# Editor-specific files
+*.swp
+.vscode/
+
+# Logs and temporary files
+*.log
