@@ -9,3 +9,4 @@ build/
 
 # Logs and temporary files
 *.log
+*\~
