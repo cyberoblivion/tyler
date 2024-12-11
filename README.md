@@ -1,6 +1,6 @@
 # tyler - Simple HTTPS Example
 
-This project demonstrates how to make an HTTPS request in C using the `libcurl` library. It includes a `Makefile` to build the executable and organizes the project into a clean structure.
+This project demonstrates how to make an HTTPS request in C using the `libcurl` library. It includes a `Makefile` to build the executable.
 
 ## Prerequisites
 
@@ -22,4 +22,7 @@ make
 ```
 
 ## Run
+```bash
 ./build/simple_https
+```
+
